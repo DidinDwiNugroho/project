@@ -1,0 +1,74 @@
+/* body {
+    background-color: #fff
+}
+
+#auth {
+    height: 100vh;
+    overflow-x: hidden
+} */
+
+/* #auth #auth-right {
+    background: url(../../../assets/images/4853433.png?45649b87e0b3f50bfa1372c6cdb4595f), linear-gradient(90deg, #2d499d, #3f5491);
+    height: 100%
+} */
+/* #auth #auth-right {
+    background: url(../../../assets/images/login.svg);
+    height: 100%
+} */
+
+/* #auth #auth-left {
+    padding: 5rem 8rem
+}
+
+#auth #auth-left .auth-title {
+    font-size: 20px;
+    margin-bottom: 1rem
+}
+
+#auth #auth-left .auth-subtitle {
+    color: #a8aebb;
+    font-size: 16px;
+    line-height: 2.5rem
+}
+
+#auth #auth-left .auth-logo-signup {
+    margin-bottom: 2rem
+}
+#auth #auth-left .auth-logo-login {
+    margin-bottom: 8rem
+}
+
+#auth #auth-left .auth-logo-signup img {
+    height: 78px
+}
+
+#auth #auth-left .auth-logo-login img {
+    height: 78px
+}
+*/
+
+@media screen and (max-width:767px) {
+    .logo {
+        margin-top: 2.2rem
+    }
+}
+
+@media screen and (max-width:576px) {
+    .logo {
+        margin-top: 2.2rem
+    }
+}
+
+/* body.theme-dark #auth-right {
+    background: url(../../../assets/images/login.svg)
+} */
+/* body.theme-dark #auth-right {
+    background: url(../../../assets/images/4853433.png?45649b87e0b3f50bfa1372c6cdb4595f), linear-gradient(90deg, #2d499d, #3f5491)
+} */
+
+.auth .auth-content {
+    padding-bottom: 60px;
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
